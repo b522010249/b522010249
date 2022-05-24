@@ -72,7 +72,7 @@
 <p align="center">
    <a href="https://b522010249.github.io/drof/"><img src="https://github-readme-stats.vercel.app/api/pin/?username=b522010249&repo=drof&theme=github_dark"/></a>
    &emsp;
-   <a href="https://b522010249.github/numerical"><img src="https://github-readme-stats.vercel.app/api/pin/?username=b522010249&repo=numerical&theme=github_dark"/></a>
+   <a href="https://b522010249.github/b522010249/numerical"><img src="https://github-readme-stats.vercel.app/api/pin/?username=b522010249&repo=numerical&theme=github_dark"/></a>
 </p>
 <p align="center">
    <a href="https://github.com/b522010249/My-first-game-code"><img src="https://github-readme-stats.vercel.app/api/pin/?username=b522010249&repo=My-first-game-code&theme=github_dark"/></a>
